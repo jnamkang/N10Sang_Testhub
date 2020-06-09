@@ -10,3 +10,5 @@ N10Sang - Test Code ...
 
 Requires
 -----
+No packages are required for installation. 
+You need a desire to be rich.
